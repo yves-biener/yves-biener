@@ -2,7 +2,7 @@
 - 👀 I’m interested in productivity, sports and computer science.
 - 🌱 I’m currently learning React.js and Angular.
 - 🏆 Some technologies I’m familiar with are:
-  - Node.js (https://github.com/nodejs)
+  - [Node.js][https://github.com/nodejs]]
   - gRPC (https://github.com/grpc)
   - vtk (https://github.com/Kitware/VTK)
 - 👨‍💻 Worked for the Fraunhofer IIS - EZRT and now moved on to the develop-group during my Master of Science.
