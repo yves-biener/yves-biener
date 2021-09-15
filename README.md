@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yves (@yves-biener)
 - 👀 I’m interested in productivity, sports and computer science.
-- 🌱 I’m currently learning React.js and Angular.
+- 🌱 I’m currently learning Angular and go.
 - 🏆 Some technologies I’m familiar with are:
   - [Node.js](https://github.com/nodejs)
   - [gRPC](https://github.com/grpc)
