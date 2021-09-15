@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Yves (@yves-biener)
+- ⛳ I aim at becomming a good software engineer.
 - 👀 I’m interested in productivity, sports and computer science.
 - 🌱 I’m currently learning Angular and go.
 - 🏆 Some technologies I’m familiar with are:
