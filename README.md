@@ -5,7 +5,7 @@
   - Node.js (https://github.com/nodejs)
   - gRPC (https://github.com/grpc)
   - vtk (https://github.com/Kitware/VTK)
-- 👨‍💻 Currently I’m working for the Fraunhofer IIS - EZRT during my Master of Science.
+- 👨‍💻 Worked for the Fraunhofer IIS - EZRT and now moved on to the develop-group during my Master of Science.
 - 📫 You can contact me via Mail: yves.biener@gmx.de
 
 <!---
