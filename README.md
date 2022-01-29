@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Yves (@yves-biener)
 - ⛳ I aim to become a software engineer.
 - 👀 I’m interested in productivity, sports and computer science.
-- 🌱 I’m currently learning Angular and go.
+- 🌱 I’m currently learning Angular and common lisp.
 - 🏆 Some technologies I’m familiar with are:
+  - [golang](https://github.com/golang/go)
   - [Node.js](https://github.com/nodejs)
   - [gRPC](https://github.com/grpc)
   - [vtk](https://github.com/Kitware/VTK)
