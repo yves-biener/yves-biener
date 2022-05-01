@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Yves (@yves-biener)
 - ⛳ I aim to become a software engineer.
 - 👀 I’m interested in productivity, sports and computer science.
-- 🌱 I’m currently learning Angular and common lisp.
+- 🌱 I’m currently learning common lisp (SBCL) and wasm (using rust).
 - 🏆 Some technologies I’m familiar with are:
+  - [rust](https://github.com/rust-lang/rust)
   - [golang](https://github.com/golang/go)
-  - [Node.js](https://github.com/nodejs)
   - [gRPC](https://github.com/grpc)
   - [vtk](https://github.com/Kitware/VTK)
-- 👨‍💻 Worked for the [Fraunhofer IIS - EZRT](https://www.iis.fraunhofer.de/de/ff/zfp.html) and now moved on to the [develop-group](https://www.develop-group.de/) during my Master of Science.
+- 👨‍💻 Worked for the [Fraunhofer IIS - EZRT](https://www.iis.fraunhofer.de/de/ff/zfp.html) and now moved on to the [develop-group](https://www.develop-group.de/) during my Master's Degree.
 - 📫 You can contact me via Mail: yves.biener@gmx.de or yves.biener@web.de
 - 📥 [LinkedIn](https://www.linkedin.com/in/yves-biener-3568a2225)
 
