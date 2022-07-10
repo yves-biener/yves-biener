@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Yves (@yves-biener)
-- ⛳ I aim to become a software engineer.
+- ⛳ I aim to become a DevOps engineer.
 - 👀 I’m interested in productivity, sports and computer science.
-- 🌱 I’m currently learning common lisp (SBCL) and wasm (using rust).
-- 🏆 Some technologies I’m familiar with are:
+- 🌱 I’m currently learning common lisp (using SBCL) and wasm (with rust).
+- 🏆 Some languages / technologies I’m familiar with are:
   - [rust](https://github.com/rust-lang/rust)
   - [golang](https://github.com/golang/go)
   - [gRPC](https://github.com/grpc)
