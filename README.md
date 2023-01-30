@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yves (@yves-biener)
 - ⛳ I aim to become a software engineer.
 - 👀 I’m interested in productivity, sports and computer science.
-- 🌱 I’m currently learning zig and rust.
+- 🌱 I’m currently learning [zig](https://github.com/ziglang/zig) and [rust](https://github.com/rust-lang/rust)
 - ✨ If you could not tell by my profile picture, I'm a bit of a weeb.
 - 👨‍💻 Worked for the [Fraunhofer IIS - EZRT](https://www.iis.fraunhofer.de/de/ff/zfp.html) and now moved on to the [develop-group](https://www.develop-group.de/) during my Master's Degree.
 - 📫 You can contact me via Mail: yves.biener@gmx.de or yves.biener@web.de
